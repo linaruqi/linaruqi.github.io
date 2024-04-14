@@ -16,7 +16,7 @@
 remote_theme: "mmistakes/so-simple-theme@3.2.0"
 locale: en-US
 title: "Musings on Statistical Machine Learning"
-description: "Welcome to my little blog on Stats & ML!"
+description: "Welcome to this little blog on ice core & Machine Learning!"
 baseurl: # the subpath of your site, e.g. "/blog"
 url: # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 logo: "/images/logo.jpg"
