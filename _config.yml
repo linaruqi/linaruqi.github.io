@@ -19,7 +19,7 @@ title: "Musings on Statistical Machine Learning"
 description: "Welcome to this little blog on ice core & Machine Learning!"
 baseurl: # the subpath of your site, e.g. "/blog"
 url: # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-logo: "/images/logo.jpg"
+logo: "/images/logo2.jpg"
 date_format: "%B %-d, %Y"
 read_time: true
 words_per_minute: 300
@@ -73,17 +73,17 @@ defaults:
 
 # Site Author
 author:
-  name: Aditya Ravuri
-  picture: /images/logo.jpg
-  email: aditya.ravuri@gmail.com
+  name: Yuqing Llaw (Grace)
+  picture: /images/logo2.jpg
+  email: linaruqi@hotmail.com
 
 # Footer Links
 footer_links:
-  - title: Feed
-    url: atom.xml
-    icon: fas fa-rss-square
+  - title: Facebook
+    url: https://www.facebook.com/profile.php?id=100095144817660
+    icon: fas fa-facebook-square
   - title: GitHub
     url: https://github.com/InfProbSciX
     icon: fab fa-github-square
 
-copyright: "This work is licensed under an MIT. This site was made using Jekyll & So Simple. Content by Aditya Ravuri."
+copyright: "This work is licensed under an MIT. This site was made using Jekyll & So Simple. Content by Grace."
