@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 remote_theme: "mmistakes/so-simple-theme@3.2.0"
 locale: en-US
-title: "Musings on Statistical Machine Learning"
+title: "Musing space on Geoscience"
 description: "Welcome to this little blog on ice core & Machine Learning!"
 baseurl: # the subpath of your site, e.g. "/blog"
 url: # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
