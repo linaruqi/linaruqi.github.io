@@ -17,7 +17,7 @@ remote_theme: "mmistakes/so-simple-theme@3.2.0"
 locale: en-US
 title: "Musing space on Geoscience"
 description: "Welcome to this little blog on ice core & Machine Learning!"
-baseurl: "/llaw.github.io"  # 子路径
+baseurl: ""
 url: "https://linaruqi.github.io"
 logo: "/images/logo2.jpg"
 date_format: "%B %-d, %Y"
