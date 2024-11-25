@@ -17,8 +17,8 @@ remote_theme: "mmistakes/so-simple-theme@3.2.0"
 locale: en-US
 title: "Musing space on Geoscience"
 description: "Welcome to this little blog on ice core & Machine Learning!"
-baseurl: # the subpath of your site, e.g. "/blog"
-url: # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl: "/llaw.github.io"  # 子路径
+url: "https://linaruqi.github.io"
 logo: "/images/logo2.jpg"
 date_format: "%B %-d, %Y"
 read_time: true
